@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+env/
+venv/
+ENV/
+.venv/
+.env/
+
+# macOS files
+.DS_Store
+
+# VSCode settings
+.vscode/
+
+# Output PDFs (optional)
+merged_output.pdf
+
+# IDE files
+.idea/
